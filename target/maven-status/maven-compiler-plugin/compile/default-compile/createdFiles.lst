@@ -1,0 +1,9 @@
+com\lens\bookstore\CORSFilter.class
+com\lens\bookstore\model\Book.class
+com\lens\bookstore\util\TextUtil.class
+com\lens\bookstore\repository\BookRepository.class
+com\lens\bookstore\util\IsbnGenerator.class
+com\lens\bookstore\util\NumberGenerator.class
+com\lens\bookstore\model\Language.class
+com\lens\bookstore\rest\JAXRSConfiguration.class
+com\lens\bookstore\rest\BookEndpoint.class

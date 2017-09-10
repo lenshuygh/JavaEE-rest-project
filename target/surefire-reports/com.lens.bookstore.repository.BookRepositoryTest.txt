@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lens.bookstore.repository.BookRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.635 sec - in com.lens.bookstore.repository.BookRepositoryTest
